@@ -8,3 +8,14 @@ The main goal of this project is to build a machine learning model that, given a
 4. Multilayer Perceptron
 
 In each technique we will test a variety of hyperparameters values to get the best model.
+
+Following are the steps followed:
+
+1. Setting up environment
+2. Process and split data
+3. K-Nearest Neighbors
+4. SVM
+5. Decision Tree
+6. Random Forsest
+7. Multilayer Perceptron
+8. Final Evaluation
